@@ -1,0 +1,15 @@
+:root {
+    /* Base */
+    --color-primary-dark: #121826;
+    --color-neutral-light: #e5e7eb;
+    --color-base-white: #ffffff;
+
+    /* Accents */
+    --color-accent-primary: #263fa9;
+    --color-text-secondary: #4d5562;
+    --color-accent-warm: #7c4f1e;
+
+    /* Spéciaux */
+    --color-neutral-ghost: #f8fafc;
+    --color-text-secondary-translucent: #4d556233;
+}

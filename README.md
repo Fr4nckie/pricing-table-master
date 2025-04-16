@@ -13,6 +13,14 @@ This project was built using:
 - **HTML5** – for the semantic structure  
 - **CSS3** – for layout and styling (no frameworks)
 
+## Responsive Design
+
+This project follows a mobile-first approach with the following breakpoints:
+
+- `@media (min-width: 640px)` – Small screens  
+- `@media (min-width: 1024px)` – Medium screens  
+- `@media (min-width: 1280px)` – Large screens
+
 ## Authors
 
 - [github](https://github.com/Fr4nckie)
